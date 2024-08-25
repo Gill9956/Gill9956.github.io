@@ -208,4 +208,30 @@ a.box{
 #education #list {
     margin-left: 18px;
 }
+/*project page styling  */
+.proj{
+    display: flex;
+    margin-left: 190px;
+    margin-top:100px;
+    margin-bottom: 20px;
+
+    gap: 140px;
+}
+#headingproject{
+    margin-bottom: 3px;
+}
+#projectimage{
+    height: 200px;
+    width: 220px;
+    border: 2px solid black;
+}
+.projectdetails li{
+    color: white;
+    font-size: 21px;
+    margin-bottom: 2px;
+    gap: 2px;
+}
+.projectslinks #ld{
+    margin-right: 50px;
+}
 
