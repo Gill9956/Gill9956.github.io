@@ -157,7 +157,7 @@ a:hover{
     
 }
 a{
-    color:blue;
+    color:red;
     
     font-size: 20px;
    
@@ -179,7 +179,7 @@ a{
     }
     .berief #image{
         border: black;
-        margin-left: 10px;
+        margin-left: 77px;
         border-radius: 50%;
         border-style: double;
         border-width: 1rem;
@@ -187,8 +187,8 @@ a{
         size: 50%;
     }
     .plateforms{
-        margin-left: 5rem;
-        margin-top: .5rem;
+        margin-left: 77px;
+        margin-top: 1.5rem;
         display: flex;
         justify-content: center;
         gap: .5rem;
