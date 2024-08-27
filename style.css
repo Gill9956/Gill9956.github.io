@@ -11,6 +11,9 @@ body{
    
     
 }
+a{
+    color: red;
+}
 nav{
     background: #0082e6;
     height: 80px;
